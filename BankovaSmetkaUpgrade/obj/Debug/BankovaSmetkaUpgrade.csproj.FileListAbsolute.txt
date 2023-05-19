@@ -1,0 +1,12 @@
+E:\Programming\Klasove\BankovaSmetkaUpgrade\bin\Debug\BankovaSmetkaUpgrade.exe.config
+E:\Programming\Klasove\BankovaSmetkaUpgrade\bin\Debug\BankovaSmetkaUpgrade.exe
+E:\Programming\Klasove\BankovaSmetkaUpgrade\bin\Debug\BankovaSmetkaUpgrade.pdb
+E:\Programming\Klasove\BankovaSmetkaUpgrade\bin\Debug\BankovaSmetka.exe
+E:\Programming\Klasove\BankovaSmetkaUpgrade\bin\Debug\BankovaSmetka.pdb
+E:\Programming\Klasove\BankovaSmetkaUpgrade\bin\Debug\BankovaSmetka.exe.config
+E:\Programming\Klasove\BankovaSmetkaUpgrade\obj\Debug\BankovaSmetkaUpgrade.csproj.AssemblyReference.cache
+E:\Programming\Klasove\BankovaSmetkaUpgrade\obj\Debug\BankovaSmetkaUpgrade.csproj.SuggestedBindingRedirects.cache
+E:\Programming\Klasove\BankovaSmetkaUpgrade\obj\Debug\BankovaSmetkaUpgrade.csproj.CoreCompileInputs.cache
+E:\Programming\Klasove\BankovaSmetkaUpgrade\obj\Debug\BankovaSmetkaUpgrade.csproj.CopyComplete
+E:\Programming\Klasove\BankovaSmetkaUpgrade\obj\Debug\BankovaSmetkaUpgrade.exe
+E:\Programming\Klasove\BankovaSmetkaUpgrade\obj\Debug\BankovaSmetkaUpgrade.pdb

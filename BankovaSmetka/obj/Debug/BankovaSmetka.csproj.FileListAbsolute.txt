@@ -1,0 +1,8 @@
+E:\Programming\Klasove\BankovaSmetka\bin\Debug\BankovaSmetka.exe.config
+E:\Programming\Klasove\BankovaSmetka\bin\Debug\BankovaSmetka.exe
+E:\Programming\Klasove\BankovaSmetka\bin\Debug\BankovaSmetka.pdb
+E:\Programming\Klasove\BankovaSmetka\obj\Debug\BankovaSmetka.csproj.AssemblyReference.cache
+E:\Programming\Klasove\BankovaSmetka\obj\Debug\BankovaSmetka.csproj.SuggestedBindingRedirects.cache
+E:\Programming\Klasove\BankovaSmetka\obj\Debug\BankovaSmetka.csproj.CoreCompileInputs.cache
+E:\Programming\Klasove\BankovaSmetka\obj\Debug\BankovaSmetka.exe
+E:\Programming\Klasove\BankovaSmetka\obj\Debug\BankovaSmetka.pdb

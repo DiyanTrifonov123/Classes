@@ -1,0 +1,12 @@
+E:\Programming\Klasove\NaiStariyaChlenNaFamiliyata\obj\Debug\NaiStariyaChlenNaFamiliyata.csproj.AssemblyReference.cache
+E:\Programming\Klasove\NaiStariyaChlenNaFamiliyata\obj\Debug\NaiStariyaChlenNaFamiliyata.csproj.SuggestedBindingRedirects.cache
+E:\Programming\Klasove\NaiStariyaChlenNaFamiliyata\obj\Debug\NaiStariyaChlenNaFamiliyata.csproj.CoreCompileInputs.cache
+E:\Programming\Klasove\NaiStariyaChlenNaFamiliyata\bin\Debug\NaiStariyaChlenNaFamiliyata.exe.config
+E:\Programming\Klasove\NaiStariyaChlenNaFamiliyata\bin\Debug\NaiStariyaChlenNaFamiliyata.exe
+E:\Programming\Klasove\NaiStariyaChlenNaFamiliyata\bin\Debug\NaiStariyaChlenNaFamiliyata.pdb
+E:\Programming\Klasove\NaiStariyaChlenNaFamiliyata\bin\Debug\DefiniraneNaKlasChovek.exe
+E:\Programming\Klasove\NaiStariyaChlenNaFamiliyata\bin\Debug\DefiniraneNaKlasChovek.pdb
+E:\Programming\Klasove\NaiStariyaChlenNaFamiliyata\bin\Debug\DefiniraneNaKlasChovek.exe.config
+E:\Programming\Klasove\NaiStariyaChlenNaFamiliyata\obj\Debug\NaiStariyaChlenNaFamiliyata.csproj.CopyComplete
+E:\Programming\Klasove\NaiStariyaChlenNaFamiliyata\obj\Debug\NaiStariyaChlenNaFamiliyata.exe
+E:\Programming\Klasove\NaiStariyaChlenNaFamiliyata\obj\Debug\NaiStariyaChlenNaFamiliyata.pdb
